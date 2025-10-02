@@ -1,0 +1,14 @@
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\EnP\obj\Debug\net48\TemplateMod.csproj.AssemblyReference.cache
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\EnP\obj\Debug\net48\TemplateMod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\EnP\obj\Debug\net48\TemplateMod.AssemblyInfoInputs.cache
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\EnP\obj\Debug\net48\TemplateMod.AssemblyInfo.cs
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\EnP\obj\Debug\net48\TemplateMod.csproj.CoreCompileInputs.cache
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\EnP\output\net48\TemplateMod.dll
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\EnP\obj\Debug\net48\TemplateMod.dll
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\Сферы\UnlimitedPolicies\output\net48\TemplateMod.dll
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\Сферы\UnlimitedPolicies\obj\Debug\net48\TemplateMod.csproj.AssemblyReference.cache
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\Сферы\UnlimitedPolicies\obj\Debug\net48\TemplateMod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\Сферы\UnlimitedPolicies\obj\Debug\net48\TemplateMod.AssemblyInfoInputs.cache
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\Сферы\UnlimitedPolicies\obj\Debug\net48\TemplateMod.AssemblyInfo.cs
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\Сферы\UnlimitedPolicies\obj\Debug\net48\TemplateMod.csproj.CoreCompileInputs.cache
+c:\Users\Ivan\Desktop\Prodject\HormoneLib CORE\Сферы\UnlimitedPolicies\obj\Debug\net48\TemplateMod.dll
